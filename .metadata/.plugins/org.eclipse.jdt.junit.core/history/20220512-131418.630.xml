@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GreeterTest" project="Lab4.2_GreeterClasses" tests="11" started="11" failures="0" errors="0" ignored="0">
+  <testsuite name="GreeterTest" time="0.006" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]">
+    <testcase name="test10" classname="GreeterTest" time="0.005" displayname="test10()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test10()]"/>
+    <testcase name="test11" classname="GreeterTest" time="0.0" displayname="test11()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test11()]"/>
+    <testcase name="test1" classname="GreeterTest" time="0.0" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test1()]"/>
+    <testcase name="test2" classname="GreeterTest" time="0.0" displayname="test2()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test2()]"/>
+    <testcase name="test3" classname="GreeterTest" time="0.0" displayname="test3()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test3()]"/>
+    <testcase name="test4" classname="GreeterTest" time="0.0" displayname="test4()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test4()]"/>
+    <testcase name="test5" classname="GreeterTest" time="0.0" displayname="test5()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test5()]"/>
+    <testcase name="test6" classname="GreeterTest" time="0.0" displayname="test6()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test6()]"/>
+    <testcase name="test7" classname="GreeterTest" time="0.0" displayname="test7()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test7()]"/>
+    <testcase name="test8" classname="GreeterTest" time="0.0" displayname="test8()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test8()]"/>
+    <testcase name="test9" classname="GreeterTest" time="0.001" displayname="test9()" uniqueid="[engine:junit-jupiter]/[class:GreeterTest]/[method:test9()]"/>
+  </testsuite>
+</testrun>
